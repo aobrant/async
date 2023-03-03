@@ -1,0 +1,10 @@
+asyncio
+aiohttp
+more_itertools
+datetime
+psycopg2-binary
+python-decouple
+requests
+SQLAlchemy == 1.4.14
+aiopg
+asyncpg
